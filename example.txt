@@ -1,0 +1,3 @@
+This is an example text file.
+Zawiera wiele linii tekstu ąęćźżł.
+This is the third line.
