@@ -1,6 +1,6 @@
  # KPD
 
-This repository contains materials and exercises created for classes focused on strengthening Python and natural language processing (NLP) skills.
+This repository contains a collection of Python NLP assignments and exercises that I have completed as part of a course. Each assignment focuses on different aspects of natural language processing, including text preprocessing, tokenization, and more.
 
 ## Purpose
 
